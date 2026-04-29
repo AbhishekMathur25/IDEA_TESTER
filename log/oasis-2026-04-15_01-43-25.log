@@ -1,6 +1,0 @@
-2026-04-15 01:46:25,461 - oasis.env - INFO - update rec table.
-2026-04-15 01:46:25,690 - oasis.env - INFO - performed all actions.
-2026-04-15 01:46:25,697 - oasis.env - INFO - update rec table.
-2026-04-15 01:46:25,916 - oasis.env - INFO - performed all actions.
-2026-04-15 01:46:27,859 - oasis.env - INFO - Simulation finished! Please check the results in the database: C:\Users\Abhishek\OneDrive\Documents\Idea_tester\data\simulations\sim_4f25fe74\twitter_simulation.db. Note that the trace table stored all the actions of the agents.
-2026-04-15 01:46:27,861 - oasis.env - INFO - Simulation finished! Please check the results in the database: C:\Users\Abhishek\OneDrive\Documents\Idea_tester\data\simulations\sim_4f25fe74\reddit_simulation.db. Note that the trace table stored all the actions of the agents.

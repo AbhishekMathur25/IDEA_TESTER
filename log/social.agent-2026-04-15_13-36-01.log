@@ -1,8 +1,0 @@
-INFO - 2026-04-15 13:49:51,423 - social.agent - Agent 0: {'success': True, 'post_id': 1}
-INFO - 2026-04-15 13:49:51,426 - social.agent - Agent 1: {'success': True, 'post_id': 2}
-INFO - 2026-04-15 13:49:51,472 - social.agent - Agent 2: {'success': True, 'post_id': 3}
-INFO - 2026-04-15 13:49:51,503 - social.agent - Agent 3: {'success': True, 'post_id': 4}
-INFO - 2026-04-15 13:49:51,758 - social.agent - Agent 0: {'success': True, 'post_id': 1}
-INFO - 2026-04-15 13:49:51,762 - social.agent - Agent 1: {'success': True, 'post_id': 2}
-INFO - 2026-04-15 13:49:51,762 - social.agent - Agent 2: {'success': True, 'post_id': 3}
-INFO - 2026-04-15 13:49:51,827 - social.agent - Agent 3: {'success': True, 'post_id': 4}
