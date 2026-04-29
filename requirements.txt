@@ -1,0 +1,31 @@
+# Idea Tester — Dependencies
+# Install: pip install -r requirements.txt
+
+# ── LLM ─────────────────────
+google-genai>=1.0.0
+groq
+
+
+# ── OASIS Simulation ────────
+# OASIS requires Python 3.10-3.11 (NOT 3.12+)
+# To use OASIS: install Python 3.10, then it runs OASIS social media sim.
+camel-oasis>=0.2.5
+camel-ai>=0.2.78
+ollama>=0.4.0
+
+# ── Knowledge Graph ─────────
+zep-cloud>=2.0.0
+networkx>=3.1             # Local fallback graph
+
+# ── Web Search ──────────────
+tavily-python>=0.5.0
+
+# ── Frontend ────────────────
+streamlit>=1.35.0
+streamlit-agraph>=0.0.45
+
+# ── Utilities ───────────────
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+httpx>=0.25.0
+fpdf2>=2.7.0               # PDF report generation
